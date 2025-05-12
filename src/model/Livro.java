@@ -19,6 +19,7 @@ public class Livro {
         this.exemplaresDisponiveis = totalExemplares;
     }
 
+
     public void emprestar() {
         if (exemplaresDisponiveis > 0) {
             exemplaresDisponiveis--;

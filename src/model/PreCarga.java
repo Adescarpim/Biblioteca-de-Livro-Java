@@ -3,7 +3,7 @@ package model;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Precarga {
+public class PreCarga {
 
     public static List<Livro> carregarLivros() {
         List<Livro> livros = new ArrayList<>();
